@@ -1,6 +1,8 @@
 const searchItems = [
   { title: "Home", category: "Page", detail: "Fresh Coffee & Pastries, Every Day", url: "index.html" },
   { title: "About", category: "Page", detail: "Brand story, core value, and team", url: "about.html" },
+  { title: "Our Space", category: "About", detail: "A calm corner for coffee, study, and slow conversation", url: "about.html#atmosphere-title" },
+  { title: "Daily Rhythm", category: "About", detail: "Morning espresso, midday brunch, and afternoon cupcakes", url: "about.html" },
   { title: "Menu Highlights", category: "Page", detail: "Featured coffee, cupcakes, and brunch", url: "menu.html" },
   { title: "Contact & Location", category: "Page", detail: "Address, opening hours, phone, and email", url: "contact.html" },
   { title: "Espresso Creations", category: "Coffee", detail: "$4.50 - Ethiopia & Colombia, caramel, cocoa, citrus", url: "espresso.html" },
