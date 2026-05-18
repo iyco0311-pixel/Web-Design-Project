@@ -77,9 +77,9 @@ input {
 }
 
 .brand {
-  width: 64px;
-  height: 70px;
-  margin-top: 10px;
+  width: 76px;
+  height: 82px;
+  margin-top: 8px;
   display: block;
 }
 
@@ -1627,8 +1627,8 @@ input {
   }
 
   .brand {
-    width: 52px;
-    height: 54px;
+    width: 56px;
+    height: 60px;
   }
 
   .site-nav {
